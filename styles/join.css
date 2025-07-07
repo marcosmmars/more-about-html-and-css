@@ -1,0 +1,52 @@
+.login-signup {
+    display: flex;
+    justify-content: center;
+    gap: 80px  ;
+}
+
+form {
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+form input {
+    width: 85%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    margin-bottom: 5px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#terms {
+    margin-top: 10px;
+    width: auto;
+}
+
+.login-image {
+    margin-top: 40px;
+    width: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.join-us h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 2em;
+}
+
+.join-us p {
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}

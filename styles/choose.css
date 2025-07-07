@@ -1,0 +1,78 @@
+.why-choose-us {
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 60px auto;
+    gap: 40px;
+}
+
+.why-choose-us img {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.why-choose-us li {
+    list-style-type:disc;
+    font-size: 1.2em;
+    margin: 10px 0;
+    text-align: left;
+}
+
+.why-choose-us button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.why-choose-us button:hover {
+    background-color: #0056b3;
+}
+
+/* about-us section started */
+
+.about-us {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 60px auto;
+    gap: 40px;
+}
+
+.about-us img {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.about-us li {
+    list-style-type:disc;
+    font-size: 1.2em;
+    margin: 10px 0;
+    text-align: left;
+}
+
+.about-us button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.about-us button:hover {
+    background-color: #0056b3;
+}
